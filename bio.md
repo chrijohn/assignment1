@@ -2,3 +2,5 @@ Some of my hobbies include: disc golf, cheering for the Minnesota Vikings, mento
 
 Programming Background
 Before starting at OSU I had no programming experience.
+
+Since starting at OSU, my favorite assignment was the creature fighting game from 162.
